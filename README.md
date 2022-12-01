@@ -1,4 +1,4 @@
-# BMI_Predict_on_Flask
+# BMI Predict on Flask
 
 **Context**
 
